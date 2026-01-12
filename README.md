@@ -3,7 +3,7 @@
 # Start
 [About version control](./Start/About%20Version%20Control.md) <br/>
 [A short History of Git](./Start/Git%20History.md) <br/>
-[What is Git?](./Start/What%20is%20Git?.md) <br/>
+[What is Git?](./Start/What%20is%20Git.md) <br/>
 [The Command Line](./Start/The%20Command%20Line.md) <br/>
 [Git Installation](./Start/Git%20Installation.md) <br/>
 [First-Time Git Setup](./Start/First-Time%20Git%20setup.md) <br/>
